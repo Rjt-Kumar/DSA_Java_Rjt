@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Backtracking.iml" filepath="$PROJECT_DIR$/Recursion/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Java_Rjt.iml" filepath="$PROJECT_DIR$/DSA_Java_Rjt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LInkedList/LInkedList.iml" filepath="$PROJECT_DIR$/LInkedList/LInkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchIn2D/SearchIn2D.iml" filepath="$PROJECT_DIR$/SearchIn2D/SearchIn2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search_Binary/Search_Binary.iml" filepath="$PROJECT_DIR$/Search_Binary/Search_Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching_Linear/Searching_Linear.iml" filepath="$PROJECT_DIR$/Searching_Linear/Searching_Linear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_And_Queues/Stacks_And_Queues.iml" filepath="$PROJECT_DIR$/Stacks_And_Queues/Stacks_And_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchStments+NestedCase/SwitchStments+NestedCase.iml" filepath="$PROJECT_DIR$/SwitchStments+NestedCase/SwitchStments+NestedCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeSpace_Complexity/TimeSpace_Complexity.iml" filepath="$PROJECT_DIR$/TimeSpace_Complexity/TimeSpace_Complexity.iml" />
+    </modules>
+  </component>
+</project>
